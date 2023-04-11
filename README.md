@@ -1,6 +1,6 @@
 # RSA
 
-Simple RSA implemtion.
+Simple RSA implementation.
 
 ## How to use
 
